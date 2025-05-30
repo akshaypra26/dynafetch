@@ -1,5 +1,5 @@
 [project]
-name = "pydynafetch"
+name = "dynafetch"
 version = "0.1.0"
 description = "A python client for Dynamics Business Central OData API"
 readme = "README.md"
